@@ -3,7 +3,7 @@
 
 # Langchain---Fundumentals
 
-# Objective : This repository serves as a comprehensive resource for learning and exploring the fundamentals of LangChain, a powerful framework for building applications that leverage large language models (LLMs).
+Objective : This repository serves as a comprehensive resource for learning and exploring the fundamentals of LangChain, a powerful framework for building applications that leverage large language models (LLMs).
 
 # Section 1 : 
 
